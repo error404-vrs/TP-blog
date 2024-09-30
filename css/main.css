@@ -21,6 +21,8 @@ body{
   background-color: #F4D04E;
   display: flex;
   border-radius: 8px;
+  text-decoration: none;
+  color: black;
   width: 80px;
   height: 32px;
   text-align: center;
